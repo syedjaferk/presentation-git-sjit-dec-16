@@ -1,0 +1,58 @@
+Level 1: 
+
+Part 1: 9:30 AM to 10:15AM (approx.)
+1. How Software's were developed in 80s ? - With an analogy. 
+2. Expectation of a tool ?
+3. Generation's of Version Control System. 
+4. Linus and BitKeeper
+5. Birth of GIT
+
+Part 2: 10:30 AM to 11 AM (approx)
+1. Installation of GIT
+2. Initial Git Configs and credential Manager.
+3. Stages of GIT (Working Directory, Staging Area, Repository)
+
+Part 3: 11:30 to 12:30PM (approx)
+1. git init, git add, git status, git log, git merge, git reset, git push, git pull
+2. Hands on Tasks. 
+
+Part 4: 1:30 to 2:45 (approx)
+1. Github
+2. Hosting a webpage in github.
+3. Github Actions
+4. Github Student Pack
+
+Part 5: Community Awareness
+1. About FOSS
+2. About KanchiLUG
+3. About Software Development in Tamil
+
+Level 2:
+
+Part 1: 9:30 AM to 10:15AM (approx.)
+1. Why GIT and an overview of its history. 
+2. Installation of GIT
+3. Initial Git Configs & Stages of GIT (Working Directory, Staging Area, Repository)
+4. How a git works ?
+
+Part 2: 10:30 AM to 11 AM (approx)
+1. Basic GIT Commands
+2. Git Branching Strategies
+
+
+Part 3: 11:30 to 12:30PM (approx)
+1. Git Workflows
+2. Git Commits - How to do a proper commit.
+3. Git Pull Requests
+4. Merge Conflicts
+5. Merge vs Rebase
+
+Part 4: 1:30 to 2:45 (approx)
+1. Hosting a webpage in github.
+2. Github Actions
+
+Part 5: Community Awareness (10 Min)
+1. About FOSS
+2. About KanchiLUG
+3. About Software Development in Tamil
+
